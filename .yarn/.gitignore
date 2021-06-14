@@ -2,3 +2,4 @@
 # https://yarnpkg.com/advanced/qa#which-files-should-be-gitignored
 build-state.yml
 install-state.gz
+ .yarn/cache/@carbon-grid-npm-10.17.0-2ba7fd3da3-b5502b7ccf.zip
